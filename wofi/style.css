@@ -1,0 +1,54 @@
+#input {
+	margin-top: 10px; 
+	margin-left: 12px;
+	margin-right: 12px;
+	border: none; /* border around the input box */
+	background-color: #333333; /* background color of the text input box itself */
+    color: #ffffff; /* text color as you type inside the input box */
+    border-radius: 5px;
+}
+
+#inner-box {
+	margin: 5px;
+	border: none; /* horizontal bar that appears above the search results */
+	background-color: #1f1f1f; /* background color behind the search results */
+    color: #ffffff; /* text color of each search result */
+    border-radius: 10px;
+}
+
+#outer-box {
+	margin: 5px; /* margin between the outer edges of the main window and its contents inside */
+	border: none; /* border around all the internal window components */
+	background-color: #1f1f1f; /* background color of entire inner window */
+	border-radius: 15px;
+}
+
+#text {
+	margin: 5px;
+	border: none; /* border around each individual item within the search results */
+	background-color: trans; /* background behind each individual item within the search results */
+        color: ffffff;
+}
+
+/* Remove the search icon */
+#input > image.left {
+        -gtk-icon-transform:scaleX(0);
+}
+
+#scroll {
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 2px solid #1f1f1f;
+	background-color: #1f1f1f; /* background color behind the search slider */
+	border-radius: 10px;
+}
+
+window {
+	margin: 15px;
+	border: none; /* border around the entire window */
+	border-radius: 18px;
+	/* background-color: #dbdbdb; */
+	font-family: "C059";
+}
