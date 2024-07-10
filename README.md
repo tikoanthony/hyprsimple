@@ -25,3 +25,5 @@ Installing:
 4. Restart hyprland
 
 There you go.
+
+Wallpaper source [@kazusasn](https://x.com/kazusasn/status/1685992314726998017)
