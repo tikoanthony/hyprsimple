@@ -1,6 +1,10 @@
 # hyprsimple
 Simple hyprland config
 
+PREVIEW:
+![preview1](pv_images1.png)
+![preview2](pv_images2.png)
+
 Important: always back up your data before doing anything :D
 
 Required packages:
