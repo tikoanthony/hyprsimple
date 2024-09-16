@@ -5,7 +5,7 @@
 	border: none; /* border around the input box */
 	background-color: #333333; /* background color of the text input box itself */
     color: #ffffff; /* text color as you type inside the input box */
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 #inner-box {
@@ -20,7 +20,7 @@
 	margin: 5px; /* margin between the outer edges of the main window and its contents inside */
 	border: none; /* border around all the internal window components */
 	background-color: #1f1f1f; /* background color of entire inner window */
-	border-radius: 15px;
+	border-radius: 5px;
 }
 
 #text {
@@ -42,13 +42,13 @@
 	margin-bottom: 5px;
 	border: 2px solid #1f1f1f;
 	background-color: #1f1f1f; /* background color behind the search slider */
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 window {
-	margin: 15px;
+	margin: 10px;
 	border: none; /* border around the entire window */
-	border-radius: 18px;
+	border-radius: 5px;
 	/* background-color: #dbdbdb; */
 	font-family: "C059";
 }

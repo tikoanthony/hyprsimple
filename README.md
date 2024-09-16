@@ -19,11 +19,9 @@ Also, maybe you will need this for dark theme
 
 
 Installing:
-1. Copy default hypr, waybar, and wofi folder in your .config to template
-2. If in your .config didn't have that folder, then
-3. Copy the hypr, waybar, wofi, and kitty folder to .config
+1. Copy your default hypr, waybar, wofi, wlogout, and kitty folder in your .config to template
+2. If in your .config didn't have that folder, skip no 1
+3. Copy the hypr, waybar, wofi, wlogout, and kitty folder to .config
 4. Restart hyprland
 
 There you go.
-
-Wallpaper source [@kazusasn](https://x.com/kazusasn/status/1685992314726998017)
